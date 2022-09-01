@@ -11,7 +11,7 @@ title                    : "Shuyu Dong" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Shuyu Dong" #"Your Name"
 description              : &description ""
-domain                   : shuyu-d.github.io 
+domain                   :  
 url                      : https://shuyu-dong.github.io # 
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               :  
