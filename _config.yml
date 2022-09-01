@@ -11,9 +11,9 @@ title                    : "Shuyu Dong" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Shuyu Dong" #"Your Name"
 description              : &description ""
-url                      : https://shuyu-dong.github.io # 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+url                      : # 
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               :  
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
