@@ -33,7 +33,7 @@ SIAM Journal on Matrix Analysis and Applications 43 (2) (2022), 840-866
 - [Riemannian gradient descent methods for graph-regularized matrix completion](https://doi.org/10.1016/j.laa.2020.06.010)  
 Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan   
 Linear Algebra and its Applications 623 (2020), 193-235  
-[PDF](/files/grmc-uclouvain-dial.pdf) 
+[PDF](/files/grmc-uclouvain-16-june-2020.pdf) 
 
 - [Alternating minimization algorithms for graph regularized tensor completion](https://arxiv.org/abs/2008.12876)  
 Yu Guan, Shuyu Dong, P.-A. Absil, and François Glineur   
