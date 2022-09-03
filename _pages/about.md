@@ -10,9 +10,9 @@ redirect_from:
 
 ## Biography 
 
-I am a postdoctoral researcher at Université Paris-Saclay and INRIA Saclay, within the TAU Team. 
+I am a postdoctoral researcher at Université Paris-Saclay and [INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay), in the [TAU Team](https://www.inria.fr/fr/tau). 
 My current reserch focuses on causal structure learning. 
-I obtained my PhD in May 2021 at Université catholique de Louvain, Belgium, under the supervision of Pierre-Antoine Absil and Kyle A. Gallivan. I worked on matrix and tensor completion, graph-based machine learning, and optimization on matrix manifolds. 
+I obtained my PhD in May 2021 at [Université catholique de Louvain](https://uclouvain.be), Belgium, under the supervision of [Pierre-Antoine Absil](https://sites.uclouvain.be/absil/) and [Kyle A. Gallivan](https://www.math.fsu.edu/~gallivan/). I worked on matrix and tensor completion, graph-based machine learning, and optimization on matrix manifolds. 
 
 ## Publications and Preprints  
 
