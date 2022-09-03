@@ -8,14 +8,14 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shuyu Dong" #"Your Name / Site Title"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Shuyu Dong" #"Your Name"
-description              : &description ""
+description              : &description "Github Pages of Shuyu Dong"
 domain                   :  
-url                      : # 
+url                      : "https://shuyu-d.github.io" # 
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               :  
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -70,18 +70,19 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "http://linkedin.com/in/shuyu-dong-8a2b1942" 
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-5HLP1XEQ0X"
 
 
 # Site Author
 author:
-  name             : "" #"My Sidebar Name"
+  name             : "Shuyu Dong" #"My Sidebar Name"
   avatar           : "profile-shuyu.jpg" #"shuyu-profile.png"
   bio              : "" # "Your biography for the left-hand sidebar"
   location         : #"Location"
@@ -103,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "http://linkedin.com/in/shuyu-dong-8a2b1942"
   orcid            : "https://orcid.org/0000-0002-0336-9677"
   pinterest        :
   soundcloud       :
