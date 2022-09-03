@@ -8,47 +8,48 @@ redirect_from:
   - /about.html
 ---
 
+## Biography 
+
 I am a postdoctoral researcher at Université Paris-Saclay and INRIA Saclay, within the TAU Team. 
 My current reserch focuses on causal structure learning. 
 I obtained my PhD in May 2021 at Université catholique de Louvain, Belgium, under the supervision of Pierre-Antoine Absil and Kyle A. Gallivan. I worked on matrix and tensor completion, graph-based machine learning, and optimization on matrix manifolds. 
 
-## Publication and preprints  
+## Publications and Preprints  
 
-**From graphs to DAGs: a low-complexity model and a scalable algorithm**  
-S. Dong and M. Sebag  
-[European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2022)](https://arxiv.org/pdf/2204.04644.pdf)  
-[Link](https://arxiv.org/pdf/2204.04644.pdf)
+- [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://arxiv.org/abs/2204.04644)  
+Shuyu Dong and Michèle Sebag  
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022  
+[arXiv:2204.04644](https://arxiv.org/pdf/2204.04644.pdf)
 
-**On the analysis of optimization with fixed-rank matrices: a quotient geometric view**  
-S. Dong, B. Gao, W. Huang, and K. A. Gallivan, 2022.  
-[arXiv](https://arxiv.org/pdf/2203.06765.pdf)
+- [On the analysis of optimization with fixed-rank matrices: a quotient geometric view](https://arxiv.org/abs/2203.06765)  
+Shuyu Dong, Bin Gao, Wen Huang, and Kyle A. Gallivan  
+[arXiv:2203.06765](https://arxiv.org/pdf/2203.06765.pdf), 2022 
 
-**New Riemannian preconditioned algorithms for tensor completion via polyadic decomposition**  
-S. Dong, B. Gao, Y. Guan, and F. Glineur, 2021.  
-[SIAM Journal on Matrix Analysis and Applications 43 (2), 840-866](https://doi.org/10.1137/21M1394734)  
-[PDF](to-add) 
+- [New Riemannian preconditioned algorithms for tensor completion via polyadic decomposition](https://doi.org/10.1137/21M1394734)  
+Shuyu Dong, Bin Gao, Yu Guan, and François Glineur  
+SIAM Journal on Matrix Analysis and Applications 43 (2) (2022), 840-866  
+[arXiv](https://arxiv.org/pdf/2101.11108.pdf) 
 
-**Riemannian gradient descent methods for graph-regularized matrix completion**  
-S Dong, PA Absil, and KA Gallivan  
-[Linear Algebra and its Applications 623, 193-235](https://doi.org/10.1016/j.laa.2020.06.010)  
-[PDF](to-add) 
+- [Riemannian gradient descent methods for graph-regularized matrix completion](https://doi.org/10.1016/j.laa.2020.06.010)  
+Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan   
+Linear Algebra and its Applications 623 (2020), 193-235  
+[PDF](/files/grmc-uclouvain-dial.pdf) 
 
-**Alternating minimization algorithms for graph regularized tensor completion**  
-Y Guan, S Dong, PA Absil, and F Glineur  
-[arXiv](https://arxiv.org/pdf/2008.12876.pdf)
+- [Alternating minimization algorithms for graph regularized tensor completion](https://arxiv.org/abs/2008.12876)  
+Yu Guan, Shuyu Dong, P.-A. Absil, and François Glineur   
+[arXiv:2008.12876](https://arxiv.org/pdf/2008.12876.pdf), 2020  
 
-**Preconditioned conjugate gradient algorithms for graph regularized matrix completion**  
-S Dong, PA Absil, and KA Gallivan  
-[27th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2019)](https://www.esann.org/sites/default/files/proceedings/legacy/es2019-133.pdf)
+- [Preconditioned conjugate gradient algorithms for graph regularized matrix completion](https://www.esann.org/sites/default/files/proceedings/legacy/es2019-133.pdf)  
+Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan  
+27th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN), 2019  
 
-**Graph learning for regularized low-rank matrix completion**  
-S Dong, PA Absil, and KA Gallivan   
-[23rd International Symposium on Mathematical Theory of Networks and Systems (MTNS 2018)](https://mtns2018.hkust.edu.hk/media/files/0153.pdf)  
+- [Graph learning for regularized low-rank matrix completion](https://mtns2018.hkust.edu.hk/media/files/0153.pdf)  
+Shuyu Dong, PA Absil, and Kyle A. Gallivan  
+23rd International Symposium on Mathematical Theory of Networks and Systems (MTNS), 2018
 
-**Learning sparse models of diﬀusive graph signals**  
-S Dong, D Thanou, PA Absil, and P Frossard  
-[25th European Symposium on Artificial Neural Networks	(ESANN 2017)](https://www.esann.org/sites/default/files/proceedings/legacy/es2017-116.pdf)
-
+- [Learning sparse models of diﬀusive graph signals](https://www.esann.org/sites/default/files/proceedings/legacy/es2017-116.pdf)  
+Shuyu Dong, Dorina Thanou, P.-A. Absil, and Pascal Frossard  
+25th European Symposium on Artificial Neural Networks	(ESANN), 2017
 
 
 
