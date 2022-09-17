@@ -16,7 +16,7 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 
 ## Publications and Preprints  
 
-- [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://arxiv.org/abs/2204.04644)  
+- [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1357.pdf) 
 Shuyu Dong and Michèle Sebag  
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022  
 [arXiv:2204.04644](https://arxiv.org/pdf/2204.04644.pdf)
@@ -44,7 +44,7 @@ Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan
 27th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN), 2019  
 
 - [Graph learning for regularized low-rank matrix completion](https://mtns2018.hkust.edu.hk/media/files/0153.pdf)  
-Shuyu Dong, PA Absil, and Kyle A. Gallivan  
+Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan  
 23rd International Symposium on Mathematical Theory of Networks and Systems (MTNS), 2018
 
 - [Learning sparse models of diﬀusive graph signals](https://www.esann.org/sites/default/files/proceedings/legacy/es2017-116.pdf)  
