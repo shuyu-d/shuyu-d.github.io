@@ -16,7 +16,7 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 
 ## Publications and Preprints  
 
-- [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1357.pdf) 
+- [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1357.pdf)  
 Shuyu Dong and Michèle Sebag  
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022  
 [arXiv:2204.04644](https://arxiv.org/pdf/2204.04644.pdf)
