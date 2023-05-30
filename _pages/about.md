@@ -16,7 +16,7 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 
 ## Publications and Preprints  
 
-- [High-Dimensional Causal Discovery: Learning from Inverse Covariance via Independence-based Decomposition](https://arxiv.org/abs/2211.14221)  
+- [Learning Large Causal Structures from Inverse Covariance Matrix via Matrix Decomposition](https://arxiv.org/abs/2211.14221)  
 Shuyu Dong, Kento Uemura, Akito Fujii, Shuang Chang, Yusuke Koyanagi, Koji Maruhashi, and Michèle Sebag  
 [arXiv:2211.14221](https://arxiv.org/pdf/2211.14221.pdf), 2022 
 
