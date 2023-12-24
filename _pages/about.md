@@ -18,8 +18,7 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 
 - [Learning Large Causal Structures from Inverse Covariance Matrix via Matrix Decomposition](https://arxiv.org/abs/2211.14221)  
 Shuyu Dong, Kento Uemura, Akito Fujii, Shuang Chang, Yusuke Koyanagi, Koji Maruhashi, and Michèle Sebag  
-[arXiv:2211.14221](https://arxiv.org/pdf/2211.14221.pdf), 2022 
-
+[arXiv:2211.14221](https://arxiv.org/pdf/2211.14221.pdf), 2023 
 
 - [From graphs to DAGs: a low-complexity model and a scalable algorithm](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1357.pdf)  
 Shuyu Dong and Michèle Sebag  
@@ -35,14 +34,14 @@ Shuyu Dong, Bin Gao, Yu Guan, and François Glineur
 SIAM Journal on Matrix Analysis and Applications 43 (2) (2022), 840-866  
 [arXiv](https://arxiv.org/pdf/2101.11108.pdf) 
 
+- [Alternating minimization algorithms for graph regularized tensor completion](https://arxiv.org/abs/2008.12876)  
+Yu Guan, Shuyu Dong, Bin Gao, P.-A. Absil, and François Glineur   
+[arXiv:2008.12876](https://arxiv.org/pdf/2008.12876.pdf), 2023  
+
 - [Riemannian gradient descent methods for graph-regularized matrix completion](https://doi.org/10.1016/j.laa.2020.06.010)  
 Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan   
 Linear Algebra and its Applications 623 (2021), 193-235  
 [PDF](/files/grmc-uclouvain-16-june-2020.pdf) 
-
-- [Alternating minimization algorithms for graph regularized tensor completion](https://arxiv.org/abs/2008.12876)  
-Yu Guan, Shuyu Dong, P.-A. Absil, and François Glineur   
-[arXiv:2008.12876](https://arxiv.org/pdf/2008.12876.pdf), 2020  
 
 - [Preconditioned conjugate gradient algorithms for graph regularized matrix completion](https://www.esann.org/sites/default/files/proceedings/legacy/es2019-133.pdf)  
 Shuyu Dong, P.-A. Absil, and Kyle A. Gallivan  
