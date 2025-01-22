@@ -247,11 +247,17 @@ defaults:
       author_profile: true
       share: true
 
-# Sass/SCSS
+# # Sass/SCSS
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+#----
+# Minimal Mistakes overrides
+minimal_mistakes_skin: "default" # Use the default or any skin
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  load_paths:
+    - _sass
+#---
 
 # Outputting
 permalink: /:categories/:title/
