@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography 
 
-I am a postdoctoral researcher at L2S, CentraleSupélec, CNRS, Université Paris-Saclay since October 2024. From 2021 to 2024, I was a postdoc researcher within the [TAU Team](https://www.inria.fr/fr/tau) at [INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay). 
+I am a postdoctoral researcher at [L2S](https://l2s.centralesupelec.fr/), CentraleSupélec, CNRS, Université Paris-Saclay since October 2024. From 2021 to 2024, I was a postdoc researcher within the [TAU Team](https://www.inria.fr/fr/tau) at [INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay). 
 My research focuses on causal learning, matrix and tensor decomposition and related topics in optimization. 
 I obtained my PhD in May 2021 at [Université catholique de Louvain](https://uclouvain.be), Belgium, under the supervision of [Pierre-Antoine Absil](https://sites.uclouvain.be/absil/) and [Kyle A. Gallivan](https://www.math.fsu.edu/~gallivan/). During my PhD I worked on matrix and tensor completion, graph-based machine learning, and optimization on matrix manifolds. 
 
