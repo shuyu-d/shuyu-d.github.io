@@ -40,19 +40,95 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
-html {
-    font-size: 12px; // originally 16px
-    @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
-    }
+// // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+// html {
+//     font-size: 12px; // originally 16px
+//     @include breakpoint($medium) {
+//         font-size: 14px; // originally 18px
+//     }
 
+//     @include breakpoint($large) {
+//         font-size: 16px; // originally 20px
+//     }
+
+//     @include breakpoint($x-large) {
+//         font-size: 18px; // originally 22px
+//     }
+// }
+
+// font size
+html {
+  font-size: 12px; // change from 16
+
+  @include breakpoint($medium) {
+    font-size: 13px; // change from 18
+  }
+
+  @include breakpoint($large) {
+    font-size: 14px; // change from 20
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px; // change from 22
+  }
+}
+
+// line height
+.page__content {
     @include breakpoint($large) {
-        font-size: 16px; // originally 20px
+      line-height: 1.66em;
     }
 
     @include breakpoint($x-large) {
-        font-size: 18px; // originally 22px
+      line-height: 1.66em;
     }
 }
+
+.page__title {
+    line-height: normal;
+}
+
+// horizontal rule
+.page__content hr{
+    border-top: 3px solid #e2e3e3;
+}
+
+
+// left sidebar (author profile)
+.sidebar {
+  font-size: 12px; // change from 16
+
+  @include breakpoint($medium) {
+    font-size: 13px; // change from 18
+  }
+
+  @include breakpoint($large) {
+    font-size: 14px; // change from 20
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px; // change from 22
+  }
+}
+
+// pad heading and sidebar
+#site-nav, .sidebar {
+  @include breakpoint($large) {
+    padding-left: 20px;
+  }
+}
+
+// adjust left/right sidebar and page position on x-large
+.sidebar{
+  @include breakpoint($x-large) {
+    width: calc(#{$right-sidebar-width} + 30px - 1em);
+  }
+}
+
+.page, .archive {
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width} - 30px);
+  }
+}
+
 
