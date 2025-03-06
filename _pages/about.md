@@ -18,7 +18,7 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 
 - [DCILP: A distributed approach for large-scale causal structure learning](https://arxiv.org/abs/2406.10481)  
 Shuyu Dong, Michèle Sebag, Kento Uemura, Akito Fujii, Shuang Chang, Yusuke Koyanagi, and Koji Maruhashi. 
-[*arXiv:2406.10481*](https://arxiv.org/pdf/2406.10481.pdf), 2024. To appear in the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)  
+[*arXiv:2406.10481*](https://arxiv.org/pdf/2406.10481.pdf), 2025. In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)  
 
 - [Learning Large Causal Structures from Inverse Covariance Matrix via Matrix Decomposition](https://arxiv.org/abs/2211.14221)  
 Shuyu Dong, Kento Uemura, Akito Fujii, Shuang Chang, Yusuke Koyanagi, Koji Maruhashi, and Michèle Sebag. 
