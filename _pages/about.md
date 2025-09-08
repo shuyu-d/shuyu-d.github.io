@@ -17,7 +17,8 @@ I obtained my PhD in May 2021 at [Université catholique de Louvain](https://ucl
 ## Publications and Preprints  
 
 - [Learning Measurement Models via Subspace Identification and Clustering](https://doi.org/10.1109/SSP64130.2025.11073322)   
-Shuyu Dong, Arthur Tenenhaus, Laurent Le Brusquet, Mohammed Nabil El Korso. IEEE Statistical Signal Processing Workshop (SSP), 2025, pp. 211-215. 
+Shuyu Dong, Arthur Tenenhaus, Laurent Le Brusquet, Mohammed Nabil El Korso.
+IEEE Statistical Signal Processing Workshop (SSP), 2025, pp. 211-215. 
 
 - [DCILP: A distributed approach for large-scale causal structure learning](https://arxiv.org/abs/2406.10481)  
 Shuyu Dong, Michèle Sebag, Kento Uemura, Akito Fujii, Shuang Chang, Yusuke Koyanagi, and Koji Maruhashi. 
